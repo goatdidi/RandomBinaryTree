@@ -1,0 +1,2 @@
+# RandomBinaryTree
+对RFID中的随机二进制树防碰撞算法的仿真
